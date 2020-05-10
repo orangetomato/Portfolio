@@ -3,8 +3,8 @@
 **Project name:** [“React Note App”](https://github.com/orangetomato/react-note-app)  
 **Project description:** note-app; single-page application uses react, router, hooks, context, animations, bootstrap, sass, axios, firebase, yarn
 
-**Project name:** [“React Project”](https://github.com/orangetomato/react-project)  
-**Project description:** to-do-list-application; warming-up with React, JSX and modules
+**Project name:** [“React To-Do List App”](https://github.com/orangetomato/react-to-do-list-app)  
+**Project description:** to-do-list-application uses React, hooks, context, JSX, modules, npm, Fetch
 
 **Project name:** [“Webpack Project”](https://github.com/orangetomato/webpack-project)  
 **Project description:** Warming-up with Webpack using such features as React, JSX, modules, JavaScript, Typescript, JSON, XML, CSV, Less, Sass, npm, Babel, jQuery, Lodash
