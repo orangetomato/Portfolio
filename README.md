@@ -1,5 +1,8 @@
 # Portfolio
 
+**Project name:** [“Xiaomi Landing Page”](https://github.com/orangetomato/Xiaomi)  
+**Project description:** the landing page uses HTML, CSS, JavaScript, ES6+, BEM, adaptive layout, animations
+
 **Project name:** [“React Note App”](https://github.com/orangetomato/react-note-app)  
 **Project description:** note-app; single-page application uses react, router, hooks, context, animations, bootstrap, sass, axios, firebase, yarn
 
